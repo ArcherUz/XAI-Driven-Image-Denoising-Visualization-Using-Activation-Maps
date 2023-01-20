@@ -3,6 +3,8 @@
 
 ## Our group’s purpose in this project is to visualize and analyze the performance of an existing denoising model using XAI techniques like activation maps on different types of image datasets with different types of noises and compare the performances.
 
+## Overview
+
 ### In the fifth section, we set experiments with an autoencoder algorithm from [Rahul Raj Pandey](https://github.com/Rahulraj31/Autoencoder_MNIST-Fashion).
 ![Model Output for Fashion Mnist Dataset](images/model_output_for_fmd.png)
 ### The model achieves an accuracy of ~81% for the Mnist dataset, which is a set of much simpler images compared to an accuracy of ~50% for the Fashion Mnist dataset that consists of more complex images.
